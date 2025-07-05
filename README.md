@@ -1,2 +1,2 @@
 # SkillIssue
-a Skill tree plug-in for Minecraft Java Servers
+a Skill tree plug-in for PaperMC Servers
